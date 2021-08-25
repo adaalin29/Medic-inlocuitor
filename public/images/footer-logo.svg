@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="179" height="52" viewBox="0 0 179 52">
+  <g id="Group_135" data-name="Group 135" transform="translate(-3004 204)">
+    <text id="medic_înlocuitor" data-name="medic 
+înlocuitor" transform="translate(3091 -180)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">medic </tspan><tspan x="0" y="22">înlocuitor</tspan></text>
+    <g id="Group_133" data-name="Group 133" transform="translate(3004 -196.093)">
+      <rect id="Rectangle_629" data-name="Rectangle 629" width="9.275" height="23.85" rx="4.638" transform="translate(66.276 17.225)" fill="#fff"/>
+      <path id="Union_2" data-name="Union 2" d="M3.975,10.769V9.449H2.709a2.709,2.709,0,1,1,0-5.417H3.975V2.67a2.67,2.67,0,1,1,5.341,0V4.032h1.226a2.709,2.709,0,0,1,0,5.417H9.316v1.319a2.67,2.67,0,1,1-5.341,0Z" transform="translate(64.951 0)" fill="#fff"/>
+      <path id="Union_1" data-name="Union 1" d="M48.98,36.559,37.54,16.746l-2.06,2.06a6.934,6.934,0,0,1-9.618,0l-2.06-2.06L12.364,36.559A6.625,6.625,0,0,1,.889,29.933L16.126,3.541A6.618,6.618,0,0,1,21.207.261a6.622,6.622,0,0,1,6.529,1.68l2.936,2.935L33.607,1.94a6.623,6.623,0,0,1,6.53-1.68,6.618,6.618,0,0,1,5.08,3.28L60.455,29.933A6.625,6.625,0,1,1,48.98,36.559Z" transform="translate(0 0.796)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
